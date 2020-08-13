@@ -27,6 +27,8 @@
 #ifndef MrsWatson_Types_h
 #define MrsWatson_Types_h
 
+#include <stddef.h>
+
 // Custom types used across the application
 typedef int PcmSample; // TODO: int32_t?
 typedef float Sample;
